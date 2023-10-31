@@ -2,7 +2,7 @@
 
 ## Assignment Description
 
-In this assignment you will implement 2 compression algorithms. You will implement the LZSS and RLE algorithms. Please follow the guidelines located in each README.md.
+In this assignment you will implement another compression algorithm, LZSS. Please follow the guidelines located in each README.md.
 
 ## Goal
 
@@ -23,8 +23,7 @@ The main goal for this assignment is to learn how compression works.
 ### Student UTs
 
 - Your Unit Tests account for 20% of the overall grade for this assignment.
-- There must be at least 28 UTs for this assignment (every UT missed is an automatic -1)
-    - 14 UTs for RLE
+- There must be at least 14 UTs for this assignment (every UT missed is an automatic -1)
     - 14 UTs for LZSS
 - All unit tests belong in the test folder and each file must begin with test i.e. (test_array.py)
 
